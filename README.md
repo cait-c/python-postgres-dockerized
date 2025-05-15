@@ -4,6 +4,7 @@ A minimal Dockerized Python script with a PostgreSQL database (viewable in PGAdm
 
 ## Repo Structure
 
+```
 python-postgres-dockerized/
 ├── docker-compose.yml
 ├── init.sql
@@ -11,6 +12,7 @@ python-postgres-dockerized/
 │ ├── Dockerfile
 │ ├── main.py
 │ └── requirements.txt
+```
 
 ## 🚀 Quick Start
 
